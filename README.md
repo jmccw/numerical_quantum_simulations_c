@@ -1,1 +1,1 @@
-# numerical_quantum_simulations_c
+# Numerical Quantum Simulations in C++
