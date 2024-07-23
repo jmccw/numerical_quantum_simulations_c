@@ -5,4 +5,4 @@ https://github.com/jmccw/numerical_quantum_simulations_c/assets/72471173/3607283
 
 
 
-*I did not write gnuplot wrapper (!)
+* gnuplot wrapper
